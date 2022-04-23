@@ -4,7 +4,7 @@
 ## 💻 What I'm up to...
 - 🔨 Founded and currently leading Maple High Schools Computer Science Clubs newest division "MHS Programming". 
 - 🔨 Leading a team of passionate programmers to create an object recognition tool using openCV in python. 
-- 🔨 Developing an iOS application that has an overview of events, shows announcements, built in TechAssist functionality and other useful tool for Maple High School Students. 
+- 🔨 Developing an iOS and Andriod application that has an overview of events, shows announcements, built in TechAssist functionality and other useful tool for Maple High School Students.  
 
 
 **Languages and Tools:**  
@@ -17,4 +17,5 @@
 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
+  
 
