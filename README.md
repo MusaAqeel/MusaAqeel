@@ -4,7 +4,8 @@
 ## 💻 What I'm up to...
 - 🔨 Founded and currently leading Maple High Schools Computer Science Clubs newest division "MHS Programming". 
 - 🔨 Leading a team of passionate programmers to create an object recognition tool using openCV in python. 
-- 🔨 Developing an iOS and Andriod application that has an overview of events, shows announcements, built in TechAssist functionality and other useful tool for Maple High School Students.  
+- 🔨 Developing an iOS and Andriod application that has an overview of events, shows announcements, built in TechAssist functionality and other useful tool for Maple High School Students. 
+-🥇  1x Hackathon UI/UX Award Winner for "Formula Invaders"
 
 
 **Languages and Tools:**  
