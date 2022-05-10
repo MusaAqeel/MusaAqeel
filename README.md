@@ -4,13 +4,13 @@
 ## 💻 What I'm up to...
 - 🔨 Founded and currently leading Maple High Schools Computer Science Clubs newest division "MHS Programming". 
 - 🔨 Leading a team of passionate programmers to create an object recognition tool using openCV in python. 
-- 🔨 Developing an iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tool for Maple High School Students. 
+- 🔨 Developing an iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for Maple High School Students. 
 - 🥇  1x Hackathon UI/UX Award Winner for "Formula Invaders"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
 #### **📲 Connect With Me!**
 
-##### Linkdin: https://www.linkedin.com/in/musa-aqeel
+##### Linkedin: https://www.linkedin.com/in/musa-aqeel
 ##### Email: [Musa Aqeel](mailto:musaaqeel2005@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 
 
