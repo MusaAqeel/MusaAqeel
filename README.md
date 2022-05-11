@@ -18,9 +18,11 @@
 
 **Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
 
 
@@ -29,5 +31,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
   
 
-  
+
 
