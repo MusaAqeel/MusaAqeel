@@ -4,7 +4,7 @@
 ## 💻 What I'm up to...
 - 🔨 Founded and currently leading Maple High Schools Computer Science Clubs newest division "MHS Programming". 
 - 🔨 Developing an iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for Maple High School Students. 
-- 🥇  1x Hackathon UI/UX Award Winner for "Formula Invaders"
+- 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
 #### **📲 Connect With Me!**
