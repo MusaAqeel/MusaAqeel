@@ -9,8 +9,9 @@
 
 #### **📲 Connect With Me!**
 
-
+##### Linkedin: https://www.linkedin.com/in/musa-aqeel
 ##### Email: [Musa Aqeel](mailto:musaaqeel2005@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+
 
 
 
