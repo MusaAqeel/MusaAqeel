@@ -1,10 +1,11 @@
 ### hey there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel)]()
 
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
-- 🔨 Founded and currently leading Maple High Schools Computer Science Clubs newest division "Maple Programming". 
-- 🔨 Developing an iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for Maple High School Students. 
+- 🔨 Founded and Maple High Schools Computer Science Clubs division "Maple Programming". 
+- 🔨 Developing an iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for students.
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
