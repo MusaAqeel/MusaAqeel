@@ -1,5 +1,5 @@
 ### hey there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
