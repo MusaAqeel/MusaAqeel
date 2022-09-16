@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
 
-[](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-view raw
-
-
 
 📈 **My GitHub Stats:**  
 
