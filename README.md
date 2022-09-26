@@ -31,9 +31,7 @@
 📈 **My GitHub Stats:**  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?musaaqeel=<musaaqeel>&theme=<prussian>" />
 
-  
 
 
 
