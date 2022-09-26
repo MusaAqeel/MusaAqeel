@@ -22,16 +22,16 @@
 **Languages and Tools:**
 
 
-<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"/> <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 
 
 📈 **My GitHub Stats:**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
-
-
-
-
+<p align="centre"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
