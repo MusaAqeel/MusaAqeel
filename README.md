@@ -11,6 +11,8 @@
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
+- Created "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7 @ UofT](https://hackthevalley.io).
+
 #### **📲 Connect With Me!**
 
 ##### Linkedin: https://www.linkedin.com/in/musa-aqeel
