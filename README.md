@@ -6,8 +6,8 @@
 ## 💻 What I'm up to...
 
 - 🔨 Visit my newly built [Personal Portfolio Website](https://personal-portfolio-musaaqeel.vercel.app)
-- 🔨 Co-President, Co-Founder of Tommy Douglas Secondary Schools Programming Club. 
-- 🔨 Developing an open source iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for students.
+- 🔨 Co-President, Co-Founder of TDSS Programming Club. 
+
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
