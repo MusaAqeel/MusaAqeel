@@ -5,8 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
 
-- 🔨 Visit my newly built [Personal Portfolio Website](https://personal-portfolio-o9sis519e-musaaqeel.vercel.app)
-- 🔨 Founded Maple High Schools Computer Science Clubs division "Maple Programming". 
+- 🔨 Visit my newly built [Personal Portfolio Website](https://personal-portfolio-musaaqeel.vercel.app)
+- 🔨 Co-President, Co-Founder of Tommy Douglas Secondary Schools Programming Club. 
 - 🔨 Developing an open source iOS application in Swift that has an overview of events, shows announcements, built in TechAssist functionality and other useful tools for students.
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
