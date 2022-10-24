@@ -38,4 +38,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musaaqeel)](https://github.com/anuraghazra/github-readme-stats)
