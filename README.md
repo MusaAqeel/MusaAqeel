@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
 
-- 🔨 Visit my newly built [Personal Portfolio Website](https://personal-portfolio-musaaqeel.vercel.app)
+- 🔨 Visit my newly built [Portfolio Website](musaaqeel.tech)
 - 🔨 Co-President, Co-Founder of TDSS Programming Club. 
 
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
