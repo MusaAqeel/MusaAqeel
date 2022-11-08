@@ -38,4 +38,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
   
-![](https://github-readme-stats.vercel.app/api?username=musaaqeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MusaAqeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
