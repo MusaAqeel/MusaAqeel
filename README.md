@@ -5,13 +5,13 @@
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
 
-- 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/) !!!
+- 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
 - 🔨 Co-President, Co-Founder of TDSS Programming Club. 
 
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
 
-- Created "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
+- Developed "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 
 #### **📲 Connect With Me!**
 
