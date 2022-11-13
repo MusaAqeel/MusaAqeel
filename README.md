@@ -1,7 +1,5 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel)]()
-
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## 💻 What I'm up to...
 
@@ -19,23 +17,22 @@
 
 
 
+## Tech Stack:
 
-
-**Languages and Tools:**
-
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=square&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=square&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=square&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=square&logo=lua&logoColor=white)
 
 📈 **My GitHub Stats:**  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&show_icons=true&theme=prussian" alt="musaaqeel" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musaaqeel&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaaqeel&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaaqeel&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+</p>
+
+<!---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel" />
+</p>
+-->
   
-![](https://github-readme-stats.vercel.app/api?username=MusaAqeel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
