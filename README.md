@@ -4,7 +4,6 @@
 ## What I'm up to...
 
 - 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
-- 🔨 Co-President, Co-Founder of TDSS Programming Club. 
 
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Ryerson DMZ CanHack 2022 Badge
