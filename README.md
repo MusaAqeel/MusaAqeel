@@ -29,7 +29,7 @@
   
 
   
-## 📈 My GitHub Stats:
+## My GitHub Stats:
 
 
 <p align="center">
