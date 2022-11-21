@@ -1,5 +1,6 @@
 ### hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<p align="center">
+  
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## What I'm up to...
 
@@ -11,10 +12,8 @@
 - Developed "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 
 ### **📲 Connect With Me!**
-Linkedin: https://www.linkedin.com/in/musa-aqeel
-
+- [Linkedin](https://www.linkedin.com/in/musa-aqeel)
 ## Tech Stack:
-
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white">
@@ -28,7 +27,6 @@ Linkedin: https://www.linkedin.com/in/musa-aqeel
   <img src="https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=square&logo=lua&logoColor=white">
   
-</p>
 
   
 ## 📈 My GitHub Stats:
