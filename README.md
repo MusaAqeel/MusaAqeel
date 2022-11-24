@@ -7,7 +7,7 @@
 - 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
 
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
-- 👾  Recived Ryerson DMZ CanHack 2022 Badge
+- 👾  Recived Toronto Metropolitan University DMZ CanHack 2022 Badge
 
 - Developed "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 
