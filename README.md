@@ -1,7 +1,7 @@
 ## hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 <p align="center">
   
-![](https://komarev.com/ghpvc/?username=sindresorhus)
+![](https://komarev.com/ghpvc/?username=MusaAqeel)
 ## What I'm up to...
 
 - 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
