@@ -2,6 +2,7 @@
 <p align="center">
   
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
+  
 ## What I'm up to...
 
 - 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
@@ -9,24 +10,38 @@
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Toronto Metropolitan University DMZ CanHack 2022 Badge
 
-- Developed "[My-Ai](https://github.com/MusaAqeel/HTV7)" a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
+- Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 
 ### **📲 Connect With Me!**
 - [Linkedin](https://www.linkedin.com/in/musa-aqeel)
 ## Tech Stack:
 <p align="center">
+<!--   Languages   -->
+  <!--Python-->
   <img src="https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=square&logo=dart&logoColor=white">
+  <!--Java-->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=square&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=square&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=square&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=ffdd54">
+  <!--Dart-->
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=square&logo=dart&logoColor=white">
+  <!--Lua-->
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=square&logo=lua&logoColor=white">
-  
+  <!--C++-->
+  <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white">
+<!--Frameworks, Platforms and Libraries-->
+<!--React-->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=square&logo=react&logoColor=%2361DAFB">
+<!--NextJS-->
+  <img src ="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" >
+<!--Bootstrap-->
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=square&logo=bootstrap&logoColor=white">
+<!--Flask-->
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=square&logo=flask&logoColor=white">
+<!--HTML5-->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=square&logo=html5&logoColor=white">
+<!--Vercel-->
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white">
+
 
   
 ## My GitHub Stats:
