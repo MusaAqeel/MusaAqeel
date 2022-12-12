@@ -1,15 +1,18 @@
+<!-- hey gif -->
 ## hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 <p align="center">
-  
+<!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=MusaAqeel)
   
+<!-- Main Stuff  -->
+  
 ## What I'm up to...
-
+<!-- Website -->
 - 🔨 Visit my newly built [Portfolio Website](https://musaaqeel.tech/)!
-
+<!-- Awards -->
 - 🥇  2x Hackathon Best UI/UX Award Winner for "Formula Invaders" and "Machine Learning 101"
 - 👾  Recived Toronto Metropolitan University DMZ CanHack 2022 Badge
-
+<!-- Featured Project -->
 - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 
 ### **📲 Connect With Me!**
@@ -43,7 +46,7 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white">
 
 
-  
+<!-- Stats -->
 ## My GitHub Stats:
 
 
@@ -53,6 +56,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaaqeel&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
 
+<!-- Moving Text--> 
 <!---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel" />
