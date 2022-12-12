@@ -1,9 +1,10 @@
 <!-- hey gif -->
 ## hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 <p align="center">
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=MusaAqeel)
+<!-- View Count -->
   
+![](https://komarev.com/ghpvc/?username=MusaAqeel)
+
 <!-- Main Stuff  -->
   
 ## What I'm up to...
