@@ -16,7 +16,7 @@
 <!--  Featured Project  -->
 - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 <!-- Linkedin -->
-### **📲 Connect With Me!**
+### 📲 Connect With Me!
 - [**Linkedin**](https://www.linkedin.com/in/musa-aqeel)
 ## Tech Stack:
 <p align="center">
