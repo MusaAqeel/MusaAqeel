@@ -33,13 +33,12 @@
   <!--Lua-->
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=square&logo=lua&logoColor=white">
   <!--C++-->
-  <img src ="https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white">
 <!-- Frameworks, Platforms and Libraries -->
 <!--React-->
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=square&logo=react&logoColor=%2361DAFB">
 <!--NextJS-->
-  <img src ="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" >
+  <img src ="https://img.shields.io/badge/Next-black?style=square&logo=next.js&logoColor=white" >
 <!--Bootstrap-->
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=square&logo=bootstrap&logoColor=white">
 <!--Flask-->
