@@ -2,12 +2,14 @@
 <!-- Muhammad Musa Aqeel -->
 <!-- musa.aqeel@icloud.com -->
 
-<!-- hey gif -->
-## hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="37px">
+<!-- Intro -->
+### Hey 👋, I'm Musa
+[![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
+
 <p align="center">
-<!-- View Count -->
   
-![](https://komarev.com/ghpvc/?username=MusaAqeel)
+<!-- View Count -->
+![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
 
 <!--    Main Stuff    -->
   
