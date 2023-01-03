@@ -4,29 +4,14 @@
 <!-- musaaqeel.com -->
 
 <!-- Intro -->
-<p>
+<samp>
 
-  <br><br>
-  <samp>
-##  Hey 👋, I'm Musa!<br><br>
+## Hey 👋, I'm Musa!<br><br>
 <!--   comp sci  @ <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
-  </samp>
-</p>
 
-<details>
-  <summary><b>Reach Me</b></summary>
-  <br>
-<!--   <samp> -->
-  <ul>
-    <li><a href="https://musaaqeel.tech/">Website</a> </li>
-    <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
-  </ul>
-<!--   </samp> -->
-</details>
-<br>
 
-<p align="center">
+
   
 <!-- View Count -->
 ![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
@@ -34,16 +19,24 @@
 <!--    Main Stuff    -->
   
 ## What I'm up to...
+
 <!-- Website -->
-- 🔨 Visit my newly built [**Portfolio Website**](https://musaaqeel.tech/)!
+- 🔨 Visit my newly built [**Portfolio Website**](https://musaaqeel.tech/)!</samp>
 <!-- Awards -->
-- 🥇  2x Hackathon **Best UI/UX Award Winner** for "Formula Invaders" and "Machine Learning 101"
+- 🥇  2x Hackathon **Best UI/UX Award Winner** for "Formula Invaders" and "Machine Learning 101"</samp>
 
 <!--  Featured Project  -->
 - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
+  
+
+
+
+
 <!-- Linkedin -->
 <!-- ### 📲 Connect With Me!
 - [**Linkedin**](https://www.linkedin.com/in/musa-aqeel) -->
+
+
 ## Tech Stack:
 <p align="center">
 <!--    Languages   -->
@@ -71,6 +64,22 @@
 <!--Vercel-->
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white">
 
+  
+<!-- Reach Me -->
+  
+<h2>
+<details>
+  <summary><b>Reach Me</b></summary>
+  <br>
+
+  <ul>
+    <li><a href="https://musaaqeel.tech/">Website</a> </li>
+    <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
+  </ul>
+
+</details>
+<br>
+  <h2>
 
 <!-- Stats -->
 ## GitHub Stats:
@@ -82,18 +91,14 @@
   <a href="https://github.com/MusaAqeel">
     <img height=200 src="https://grm-musaaqeel.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github Stats" />
   </a>
-  
   <a href="https://github.com/MusaAqeel">
     <img width= height= src="https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E" alt="MusaAqeel's GitHub Streak" />
   </a>
   
   [![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
-  
 </div>
-<br/>
 
-
-
+</samp>
 <!-- Moving Text --> 
 <!---
 <p align="center">
