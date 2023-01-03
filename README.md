@@ -8,7 +8,7 @@
 
   <br><br>
   <samp>
-  Hey 👋, I'm Musa!<br><br>
+##  Hey 👋, I'm Musa!<br><br>
 <!--   comp sci  @ <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
   </samp>
@@ -17,15 +17,14 @@
 <details>
   <summary><b>Reach Me</b></summary>
   <br>
-  <samp>
+<!--   <samp> -->
   <ul>
     <li><a href="https://musaaqeel.tech/">Website</a> </li>
     <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
   </ul>
-  </samp>
+<!--   </samp> -->
 </details>
 <br>
-
 
 <p align="center">
   
@@ -43,8 +42,8 @@
 <!--  Featured Project  -->
 - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
 <!-- Linkedin -->
-### 📲 Connect With Me!
-- [**Linkedin**](https://www.linkedin.com/in/musa-aqeel)
+<!-- ### 📲 Connect With Me!
+- [**Linkedin**](https://www.linkedin.com/in/musa-aqeel) -->
 ## Tech Stack:
 <p align="center">
 <!--    Languages   -->
