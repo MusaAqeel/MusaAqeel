@@ -60,7 +60,7 @@
 <a href="https://github.com/MusaAqeel">
 <img height=200 src="https://grm-musaaqeel.vercel.app/api/top-langs/?username=MusaAqeel&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/MusaAqeel">
 <img height=200 src="https://grm-musaaqeel.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github stats" />
 </a>
   
