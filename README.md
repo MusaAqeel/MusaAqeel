@@ -78,8 +78,8 @@
   </ul>
 
 </details>
-<br>
-  <h2>
+  <br>
+<h2>
 
 <!-- Stats -->
 ## GitHub Stats
