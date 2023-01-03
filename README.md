@@ -4,8 +4,28 @@
 <!-- musaaqeel.com -->
 
 <!-- Intro -->
-### Hey 👋, I'm Musa
-[![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
+<p>
+
+  <br><br>
+  <samp>
+  Hey 👋, I'm Musa!<br><br>
+<!--   comp sci  @ <b><a href="https://university.ca"> __ university</a></b><br> -->
+<!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
+  </samp>
+</p>
+
+<details>
+  <summary><b>Reach Me</b></summary>
+  <br>
+  <samp>
+  <ul>
+    <li><a href="https://musaaqeel.tech/">Website</a> </li>
+    <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
+  </ul>
+  </samp>
+</details>
+<br>
+
 
 <p align="center">
   
@@ -67,6 +87,9 @@
   <a href="https://github.com/MusaAqeel">
     <img width= height= src="https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E" alt="MusaAqeel's GitHub Streak" />
   </a>
+  
+  [![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
+  
 </div>
 <br/>
 
