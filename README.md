@@ -64,7 +64,7 @@
 <img height=200 src="https://grm-musaaqeel.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github stats" />
 </a>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=9CF1A0&ring=DDDDDD&currStreakLabel=9E9E9E)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E)](https://git.io/streak-stats)
 </a>
 </div>
 
