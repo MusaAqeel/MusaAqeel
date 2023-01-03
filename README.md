@@ -37,7 +37,7 @@
 - [**Linkedin**](https://www.linkedin.com/in/musa-aqeel) -->
 
 
-## Tech Stack:
+## Tech Stack
 <p align="center">
 <!--    Languages   -->
   <!--Python-->
@@ -82,7 +82,7 @@
   <h2>
 
 <!-- Stats -->
-## GitHub Stats:
+## GitHub Stats
 
 <div align="center"> 
   <a href="https://github.com/MusaAqeel">
