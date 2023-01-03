@@ -57,7 +57,7 @@
 
 <!-- Dark Mode -->
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/MusaAqeel">
 <img height=200 src="https://grm-musaaqeel.vercel.app/api/top-langs/?username=MusaAqeel&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
