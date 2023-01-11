@@ -7,7 +7,7 @@
 <samp>
 
 ## Hey 👋, I'm Musa!<br><br>
-<!--   comp sci  @ <b><a href="https://university.ca"> __ university</a></b><br> -->
+<!--   computing  @ Queens University <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
 
 
@@ -106,3 +106,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel" />
 </p>
 -->
+
+  
+<!-- Muhammad Musa Aqeel -->
