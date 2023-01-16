@@ -100,7 +100,7 @@
 
 </samp>
 
-<!-- Moving Text --> 
+<!-- Moving Text - --> 
 <!---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=F7F7F7&width=435&lines=Student+and+Developer;Hackathon+Enthusiast+;4+years+of+coding+experience+;Software+Programming+Instructor+;Always+Learning;Musa+Aqeel" />
