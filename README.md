@@ -26,10 +26,9 @@
 - 🥇  2x Hackathon **Best UI/UX Award Winner** for "Formula Invaders" and "Machine Learning 101"</samp>
 
 <!--  Featured Project  -->
-- Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/).
-  
 
-
+<!-- Past Featured Projects -->
+<!-- - Developed "[MyAI](https://github.com/MusaAqeel/HTV7)", a project made for [HTV7](https://hackthevalley.io) @ [UofT](https://www.utoronto.ca/). -->
 
 
 <!-- Linkedin -->
@@ -109,5 +108,3 @@
 
   
 <!-- Muhammad Musa Aqeel -->
-  
-<!--19?-->
