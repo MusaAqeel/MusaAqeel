@@ -21,7 +21,7 @@
 ## What I'm up to...
 
 <!-- Website -->
-- 🔨 Visit my built [**Portfolio Website**](https://musaaqeel.tech/)!</samp>
+- 🔨 Visit my [**Portfolio Website**](https://musaaqeel.tech/)!</samp>
 <!-- Awards -->
 - 🥇  2x Hackathon **Best UI/UX Award Winner** for "Formula Invaders" and "Machine Learning 101"</samp>
 
