@@ -13,7 +13,7 @@
 
 
   
-<!-- View Count -->
+<!-- Profioe View Count -->
 ![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
 
 <!--    Main Stuff    -->
