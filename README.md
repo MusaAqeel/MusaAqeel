@@ -65,7 +65,6 @@
 
   
 <!-- Reach Me -->
-  
 <h2>
 <details>
   <summary><b>Reach Me</b></summary>
