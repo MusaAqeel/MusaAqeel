@@ -6,7 +6,7 @@
 <!-- Intro -->
 <samp>
 
-## Hey 👋, I'm Musa!<br><br>
+## Hey 👋🏻, I'm Musa!<br><br>
 <!--   computing  @ Queens University <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
 
@@ -23,7 +23,9 @@
 <!-- Website -->
 - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.tech/)!</samp>
 <!-- Awards -->
-- 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.tech)" and "[Machine Learning 101](https://ml.musaaqeel.tech)"</samp>
+- 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.tech)" and "[Machine Learning 101](https://ml.musaaqeel.tech)"
+- @Engen Learning @COBWEB @WizRobotics @ODIN
+</samp>
 
 <!--  Featured Project  -->
 
