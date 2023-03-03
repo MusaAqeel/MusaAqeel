@@ -24,7 +24,7 @@
 - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.tech/)!</samp>
 <!-- Awards -->
 - 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.tech)" and "[Machine Learning 101](https://ml.musaaqeel.tech)"
-- @Engen Learning @COBWEB @WizRobotics @ODIN
+- @Engen Learning @COBWEB @WizRobotics @AdamAI
 </samp>
 
 <!--  Featured Project  -->
