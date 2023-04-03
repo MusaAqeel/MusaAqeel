@@ -1,7 +1,7 @@
 <!-- My profile README.md -->
 <!-- Muhammad Musa Aqeel -->
 <!-- musa.aqeel@icloud.com -->
-<!-- musaaqeel.com -->
+<!-- aqeel.tech -->
 
 <!-- Intro -->
 <samp>
@@ -23,7 +23,7 @@
 <!-- Website -->
 - 🔨 Visit my [**Portfolio Website**](https://aqeel.tech/)!</samp>
 <!-- Awards -->
-- 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.tech)" and "[Machine Learning 101](https://ml.musaaqeel.tech)"
+- 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.aqeel.tech)" and "[Machine Learning 101](https://ml.aqeel.tech)"
 - @Engen Learning @COBWEB @WizRobotics @AdamAI
 </samp>
 
@@ -73,7 +73,7 @@
   <br>
 
   <ul>
-    <li><a href="https://musaaqeel.tech/">Website</a> </li>
+    <li><a href="https://aqeel.tech/">Website</a> </li>
     <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
   </ul>
 
