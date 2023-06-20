@@ -6,7 +6,7 @@
 <!-- Intro -->
 <samp>
 
-## Hey 👋🏻, I'm Musa!<br><br>
+# Hey 👋🏻, I'm Musa!<br><br>
 <!--   computing  @ Queens University <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
 
