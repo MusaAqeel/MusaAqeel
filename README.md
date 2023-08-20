@@ -73,7 +73,7 @@
   <br>
 
   <ul>
-    <li><a href="https://aqeel.tech/">Website</a> </li>
+    <li><a href="https://musa1.com/">Website</a> </li>
     <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
   </ul>
 
