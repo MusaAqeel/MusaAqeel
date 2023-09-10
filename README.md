@@ -1,7 +1,7 @@
 <!-- My profile README.md -->
 <!-- Muhammad Musa Aqeel -->
 <!-- musa.aqeel@icloud.com -->
-<!-- aqeel.tech -->
+<!-- musa1.com -->
 
 <!-- Intro -->
 <samp>
@@ -24,7 +24,7 @@
 - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp>
 <!-- Awards -->
 - 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.com)" and "[Machine Learning 101](https://ml.musaaqeel.com)"
-- @Fortune1000 @Engen Learning @COBWEB UofT @WizRobotics 
+- @Fortune1000 @Engen Learning @~COBWEB UofT~ @~WizRobotics~
 </samp>
 
 <!--  Featured Project  -->
