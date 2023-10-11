@@ -67,20 +67,12 @@
 
   
 <!-- Reach Me -->
-<h2>
-<details>
-  <summary><b>Reach Me</b></summary>
-  <br>
 
-  <ul>
-    <li><a href="https://musa1.com/">Website</a> </li>
-    <li><a href="https://www.linkedin.com/in/musa-aqeel/">Linkedin</a> </li>
-  </ul>
+## Reach Me
+- [**musa1.com**](https://musaaqeel.com/)</samp>
+- [**LinkedIN**](https://www.linkedin.com/in/musa-aqeel/)</samp>
 
-</details>
-  <br>
-<h2>
-
+    
 <!-- Stats -->
 ## GitHub Stats
 
