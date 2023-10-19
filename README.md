@@ -6,7 +6,7 @@
 <!-- Intro -->
 <samp>
 
-# Hey 👋🏻, I'm Musa!<br><br>
+# **Hey 👋🏻, I'm Musa!**
 <!--   computing  @ Queens University <b><a href="https://university.ca"> __ university</a></b><br> -->
 <!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
 
@@ -70,7 +70,6 @@
 
 ## Reach Me
 - [**musa1.com**](https://musaaqeel.com/)</samp>
-- [**LinkedIN**](https://www.linkedin.com/in/musa-aqeel/)</samp>
 
     
 <!-- Stats -->
