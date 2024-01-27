@@ -10,7 +10,7 @@
 
 ### currently @ <b><a href="http://www.dayforce.com">dayforce</a></b>, <b><a href="http://www.engenlearning.org">engen learning</a></b>, <b><a href="http://www.kewparty.com">_KEW_.</a></b>
  
-### prev @ <b><a href="https://cobweb.ca">cobweb uoft</a></b>, <b><a href="https://wizrobotics.com">wizrobitcs</a></b>
+### prev @ <b><a href="https://cobweb.ca">cobweb uoft</a></b>, <b><a href="https://wizrobotics.com">wizrobotics</a></b>
 
 
   
