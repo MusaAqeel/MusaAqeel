@@ -20,7 +20,7 @@
   
 ## What I'm up to... -->
 
-### Building [_KEW 🎉_](kewparty.com)
+### building [_KEW 🎉_](kewparty.com)
 
 <!-- Website -->
 <!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
