@@ -2,29 +2,31 @@
 <!-- Muhammad Musa Aqeel -->
 <!-- musa.aqeel@icloud.com -->
 <!-- musa1.com -->
-
 <!-- Intro -->
 <samp>
 
-# **Hey 👋🏻, I'm Musa!**
-<!--   computing  @ Queens University <b><a href="https://university.ca"> __ university</a></b><br> -->
-<!--   previously <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b>, <b><a href=".">.</a></b> -->
+# **I'm Musa!**
+ <!-- dt  @ yorku <b><a href="https://yorku.ca"></a></b><br>  -->
+
+ currently @ dayforce, engen learning, kew.
+ 
+ prev @ <b><a href="cobweb.ca">cobweb uoft</a></b>, <b><a href="wizrobotics.com">wizrobitcs</a></b>
 
 
 
   
-<!-- Profioe View Count -->
-![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
 
-<!--    Main Stuff    -->
+<!--    Main Stuff  
   
-## What I'm up to...
+## What I'm up to... -->
+
+### Building [_KEW 🎉_](kewparty.com)
 
 <!-- Website -->
-- 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp>
-<!-- Awards -->
+<!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
+<!-- Awards 
 - 🥇  2x Hackathon **Best UI/UX Award Winner** for "[Formula Invaders](https://f1.musaaqeel.com)" and "[Machine Learning 101](https://ml.musaaqeel.com)"
-- @Fortune1000 @Engen Learning @Engen Hacks @KEW @~COBWEB UofT~ @~WizRobotics~
+
 </samp>
 
 <!--  Featured Project  -->
@@ -38,42 +40,42 @@
 - [**Linkedin**](https://www.linkedin.com/in/musa-aqeel) -->
 
 
-## Tech Stack
+<!--   ## Tech Stack
 <p align="center">
-<!--    Languages   -->
-  <!--Python-->
+<!--    Languages
+  <!--Python
   <img src="https://img.shields.io/badge/python-3670A0?style=square&logo=python&logoColor=white">
-  <!--Java-->
+  <!--Java
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=square&logo=java&logoColor=white">
-  <!--Dart-->
+  <!--Dart
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=square&logo=dart&logoColor=white">
-  <!--Lua-->
+  <!--Lua
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=square&logo=lua&logoColor=white">
-  <!--C++-->
+  <!--C++
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=square&logo=css3&logoColor=white">
 <!-- Frameworks, Platforms and Libraries -->
-<!--React-->
+<!--React
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=square&logo=react&logoColor=%2361DAFB">
-<!--NextJS-->
+<!--NextJS
   <img src ="https://img.shields.io/badge/Next-black?style=square&logo=next.js&logoColor=white" >
-<!--Bootstrap-->
+<!--Bootstrap
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=square&logo=bootstrap&logoColor=white">
-<!--Flask-->
+<!--Flask
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=square&logo=flask&logoColor=white">
-<!--HTML5-->
+<!--HTML5
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=square&logo=html5&logoColor=white">
-<!--Vercel-->
+<!--Vercel
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=square&logo=vercel&logoColor=white">
+    
+## <p><a href="mailto:someone@example.com">hi@musa1.com</a></p>
 
-  
-<!-- Reach Me -->
 
-## Reach Me
-- [**musa1.com**](https://musaaqeel.com/)</samp>
 
     
-<!-- Stats -->
-## GitHub Stats
+<!-- Stats
+
+
+## GitHub Stats-->
 
 <div align="center"> 
   
@@ -88,12 +90,21 @@
   <a href="https://github.com/MusaAqeel">
     <img width= height= src="https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E" alt="MusaAqeel's GitHub Streak" />
   </a>
+
+  
+  <!-- Profioe View Count -->
+  ![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
+
   
   [![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
+
+  
   
 </div>
 
 </samp>
+
+
 
 <!-- Moving Text - --> 
 <!---
