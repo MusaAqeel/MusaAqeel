@@ -8,9 +8,9 @@
 # **I'm Musa!**
  <!-- dt  @ yorku <b><a href="https://yorku.ca"></a></b><br>  -->
 
- currently @ dayforce, engen learning, kew.
+ ### currently @ dayforce, engen learning, kew.
  
- prev @ <b><a href="cobweb.ca">cobweb uoft</a></b>, <b><a href="wizrobotics.com">wizrobitcs</a></b>
+ ### prev @ <b><a href="cobweb.ca">cobweb uoft</a></b>, <b><a href="wizrobotics.com">wizrobitcs</a></b>
 
 
 
