@@ -10,7 +10,7 @@
 
  ### currently @ dayforce, engen learning, kew.
  
- ### prev @ <b><a href="cobweb.ca">cobweb uoft</a></b>, <b><a href="wizrobotics.com">wizrobitcs</a></b>
+ ### prev @ <b><a href="https://cobweb.ca">cobweb uoft</a></b>, <b><a href="https://wizrobotics.com">wizrobitcs</a></b>
 
 
 
@@ -20,7 +20,7 @@
   
 ## What I'm up to... -->
 
-### building [_KEW 🎉_](kewparty.com)
+### building [_KEW 🎉_](https://kewparty.com)
 
 <!-- Website -->
 <!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
