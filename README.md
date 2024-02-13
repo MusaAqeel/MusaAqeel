@@ -8,7 +8,7 @@
 # **I'm Musa!**
  <!-- dt  @ yorku <b><a href="https://yorku.ca"></a></b><br>  -->
 
-### currently @ <b><a href="http://www.dayforce.com">dayforce</a></b>, <b><a href="http://www.engenlearning.org">engen learning</a></b>
+### currently @ <b><a href="http://www.dayforce.com">dayforce</a></b> & <b><a href="http://www.engenlearning.org">engen learning</a></b>
 
 <!-- , <b><a href="http://www.kewparty.com">_KEW_.</a></b> >
  
