@@ -21,7 +21,7 @@
   
 ## What I'm up to... -->
 
-### building [_KEW 🎉_](https://kewparty.com) and [DoDisturb](https://DoDisturb.app)
+### building [DoDisturb](https://DoDisturb.app) and [_KEW 🎉_](https://kewparty.com) 
 
 <!-- Website -->
 <!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
