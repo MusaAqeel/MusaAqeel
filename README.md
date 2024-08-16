@@ -89,11 +89,11 @@
 <div align="center"> 
   
   <a href="https://github.com/MusaAqeel">
-    <img height=200 src="https://grm-stats-musaaqeel.vercel.app/api/top-langs/?username=MusaAqeel&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language Stats" />
+    <img height=200 src="https://profile-stats-five.vercel.app/api/top-langs/?username=MusaAqeel&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language Stats" />
   </a>
   
   <a href="https://github.com/MusaAqeel">
-    <img height=200 src="https://grm-stats-musaaqeel.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github Stats" />
+    <img height=200 src="https://profile-stats-five.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github Stats" />
   </a>
   
   <a href="https://github.com/MusaAqeel">
