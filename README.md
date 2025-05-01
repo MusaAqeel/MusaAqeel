@@ -21,7 +21,7 @@
   
 ## What I'm up to... -->
 
-### building [GradeAssist](https://GradeAssist.ca)
+### building [VibeGrade](https://Vibegrade.com)
 
 <!-- Website -->
 <!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
