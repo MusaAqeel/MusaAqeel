@@ -21,7 +21,7 @@
   
 ## What I'm up to... -->
 
-## building [VibeGrade](https://Vibegrade.com)
+## building [TypeOS](https://TypeOS.com)
 
 <!-- Website -->
 <!-- - 🔨 Visit my [**Portfolio Website**](https://musaaqeel.com/)!</samp> -->
