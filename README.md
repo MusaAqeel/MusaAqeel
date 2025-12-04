@@ -1,9 +1,10 @@
+```md
 <!-- My profile README.md -->
 <!-- Muhammad Musa Aqeel -->
 <!-- musa.aqeel@icloud.com -->
 <!-- musa1.com -->
 <!-- Intro -->
-<samp>
+<!-- <samp> -->
 
  <!-- dt  @ yorku <b><a href="https://yorku.ca"></a></b><br>  -->
 
@@ -70,12 +71,12 @@
 ## <p><a href="mailto:someone@example.com">hi@musa1.com</a></p>
 
 <!-- Add a big chunk of space -->
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<!-- <br /> -->
+<!-- <br /> -->
+<!-- <br /> -->
+<!-- <br /> -->
+<!-- <br /> -->
+<!-- <br /> -->
 
 
 
@@ -91,19 +92,19 @@ https://github-readme-stats.vercel.app/
 
 ## GitHub Stats-->
 
-<div align="center"> 
+<!-- <div align="center">  -->
 
 
 
 
 
-  <a href="https://github.com/MusaAqeel">
+  <!-- <a href="https://github.com/MusaAqeel">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusaAqeel&layout=compact&langs_count=10&hide_border=true&include_orgs=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Language Stats" />
   </a>
   
   <a href="https://github.com/MusaAqeel">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github Stats" />
-  </a>
+  </a> -->
 
 
 
@@ -121,22 +122,22 @@ https://github-readme-stats.vercel.app/
     <img height=200 src="https://profile-stats-five.vercel.app/api?username=MusaAqeel&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&include_orgs=true&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="MusaAqeel's Github Stats" />
   </a>
   -->
-  <a href="https://github.com/MusaAqeel">
+  <!-- <a href="https://github.com/MusaAqeel">
     <img width= height= src="https://github-readme-streak-stats.herokuapp.com?user=MusaAqeel&theme=highcontrast&hide_border=true&border=DDDDDD&fire=F1F1F1&ring=9E9E9E&currStreakLabel=9E9E9E" alt="MusaAqeel's GitHub Streak" />
-  </a>
+  </a> -->
 
   
   <!-- Profioe View Count -->
-  ![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat)
+  <!-- ![](https://komarev.com/ghpvc/?username=MusaAqeel&label=Profile+Views&color=lightgrey&style=flat) -->
 
   
-  [![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel)
+  <!-- [![Github](https://img.shields.io/github/followers/MusaAqeel?label=Follow&style=social)](https://github.com/MusaAqeel) -->
 
   
   
-</div>
+<!-- </div> -->
 
-</samp>
+<!-- </samp> -->
 
 
 
@@ -149,3 +150,4 @@ https://github-readme-stats.vercel.app/
 
   
 <!-- Muhammad Musa Aqeel -->
+```
