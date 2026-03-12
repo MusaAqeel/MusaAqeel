@@ -1,1 +1,1 @@
-## building [TypeOS](https://TypeOS.com)
+## building
